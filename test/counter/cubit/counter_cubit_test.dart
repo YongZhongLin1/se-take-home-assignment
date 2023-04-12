@@ -15,14 +15,14 @@ import 'package:mcd/counter/cubit/counter_state.dart';
 
 void main() {
   group('CounterCubit', () {
-    test('initial state is 1', () {
-      expect(CounterCubit().bots.length, equals(1));
+    test('initial state is 0', () {
+      expect(CounterCubit().bots.length, equals(0));
     });
 
     test('increase 1 bot when incrementBot is called', () {
       final cubit = CounterCubit();
       cubit.incrementBot();
-      expect(cubit.bots.length, 2);
+      expect(cubit.bots.length, 1);
     });
 
     test('decrease 1 bot when decrementBot is called', () {
