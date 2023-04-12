@@ -7,7 +7,7 @@
 
 // ignore_for_file: lines_longer_than_80_chars, prefer_const_constructors, prefer_const_literals_to_create_immutables
 
-import 'package:flutter/material.dart';
+import 'package:flutter/material.dart'; 
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:mcd/counter/counter.dart';
 import 'package:mcd/counter/cubit/counter_state.dart';
