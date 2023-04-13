@@ -10,6 +10,12 @@ A Very Good Project created by Very Good CLI.
 
 ---
 
+## Screenshots
+![Alt text](/screenshot/1.PNG?raw=true "Initial screenshot")
+![Alt text](/screenshot/2.PNG?raw=true "Click +Bot button to add new bot")
+![Alt text](/screenshot/3.PNG?raw=true "Click New Normal Order to add new normal order")
+![Alt text](/screenshot/4.PNG?raw=true "Click New VIP Order to add new VIP order")
+
 ## Getting Started 🚀
 
 This project contains 3 flavors:
